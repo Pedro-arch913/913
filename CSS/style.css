@@ -1,0 +1,23 @@
+p {
+    border: 1px solid black;
+    font-size: 40px;
+    color: rgb(38, 161, 7);
+    font-weight: bold;
+    font-style: italic;
+}
+
+.paragrafo {
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    color: crimson;
+
+}
+
+.fonte-negrito{
+
+    font-weight: bold;
+    color: black;
+
+}
