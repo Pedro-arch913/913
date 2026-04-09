@@ -1,7 +1,7 @@
 p {
     border: 1px solid black;
     font-size: 40px;
-    color: rgb(38, 161, 7);
+    color: green;
     font-weight: bold;
     font-style: italic;
 }
@@ -22,10 +22,10 @@ p {
 
 }
 
-#elemento {
 
-    font-size: 30px;
-    color: blue;
-    background-color: cyan;
-
+#titulo{
+    font-size: 25px;
+    color: tomato;
+    font-weight: bold;
+    background: black;
 }

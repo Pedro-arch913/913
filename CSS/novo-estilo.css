@@ -1,0 +1,15 @@
+p, span {
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    font-style: italic;
+}
+
+h1 em {
+    font-size: 25px;
+    color: orange;
+    font-weight: bold;;
+}
+h1 {
+    font-size: 30px;
+    color: black;
+}
