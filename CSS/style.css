@@ -18,6 +18,7 @@
 
 .caixa-padding {
     padding: 30px;
+    font-family: 'Roboto', sans-serif;
     /*padding-top: 10px;
     padding-bottom: 30px;
     padding-left: 20px;
@@ -31,4 +32,6 @@
     margin-top: 20px;
     margin-bottom: 45px;*/
 }
+
+
 
