@@ -1,31 +1,18 @@
-p {
-    border: 1px solid black;
-    font-size: 40px;
-    color: green;
+.Caixa {
+    width: 200px;
+    height: 100px;
+    background-color: cadetblue;
+    color: white;
+    border: 5px solid black;
     font-weight: bold;
-    font-style: italic;
-}
-
-.paragrafo {
-
-    font-size: 20px;
-    font-style: normal;
-    font-weight: normal;
-    color: crimson;
-
-}
-
-.fonte-negrito{
-
-    font-weight: bold;
-    color: black;
-
 }
 
 
-#titulo{
-    font-size: 25px;
-    color: tomato;
-    font-weight: bold;
-    background: black;
+
+.caixa-padding {
+    padding: 20px;
+}
+
+.caixa-margin {
+    margin: 20px;
 }
