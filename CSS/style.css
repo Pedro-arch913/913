@@ -1,18 +1,34 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
 .Caixa {
     width: 200px;
     height: 100px;
-    background-color: cadetblue;
+    background-color: rgb(20, 120, 167);
     color: white;
     border: 5px solid black;
     font-weight: bold;
+    
 }
 
 
 
 .caixa-padding {
-    padding: 20px;
+    padding: 30px;
+    /*padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;*/
 }
 
 .caixa-margin {
-    margin: 20px;
+    margin: 40px;
+    /*margin-left: 10px;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 45px;*/
 }
+
